@@ -2,4 +2,4 @@
 
 的地得不分
 
-<IMG SRC="http://www.stat.ucla.edu/~nchristo/socr_logo.jpg">
+<IMG SRC="https://avatars.githubusercontent.com/u/65426399?v=4">
