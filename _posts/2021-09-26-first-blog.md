@@ -4,3 +4,4 @@
 
 这里感谢 <a href="https://chadbaldwin.net/2021/03/14/how-to-build-a-sql-blog.html"> chadbaldwin </a> 的教程和template。给我这种非cs学生省了很多心。
 <IMG SRC="https://raw.githubusercontent.com/sqliang99/sqliang99.github.io/main/picturefolder/ema.png">
+ (图是用来实验的）
